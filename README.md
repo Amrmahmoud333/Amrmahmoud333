@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amr</h1>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)" width="100"/>
+</div>
+
 <h3 align="center">As a junior software engineer, I bring a fresh perspective and a hunger for learning to every project. I specialize in Flutter and am passionate about creating elegant, efficient solutions that deliver an exceptional user experience. I'm excited to collaborate with more experienced developers and continue to grow my skills as a developer</h3>
 
 - 🔭 I’m currently working on **ColadaApp**
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **3mrma7moud69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
