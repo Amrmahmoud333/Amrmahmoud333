@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300"/>
 </div>
 
-<h3 align="center">As a junior software engineer, I bring a fresh perspective and a hunger for learning to every project. I specialize in Flutter and am passionate about creating elegant, efficient solutions that deliver an exceptional user experience. I'm excited to collaborate with more experienced developers and continue to grow my skills as a developer</h3>
+<h3 align="center">As a software engineer, I bring a fresh perspective and a hunger for learning to every project. I specialize in Flutter and am passionate about creating elegant, efficient solutions that deliver an exceptional user experience. I'm excited to collaborate with more experienced developers and continue to grow my skills as a developer</h3>
 
 - 🔭 I’m currently working on **ColadaApp**
 
